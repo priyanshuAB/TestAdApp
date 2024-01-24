@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Ad App</string>
+    <string name="interstitial_adUnit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewarded_adUnit_id">ca-app-pub-3940256099942544/5224354917</string>
+</resources>
